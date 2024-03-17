@@ -124,6 +124,15 @@ nav a:visited {
     height: 200px;
     margin-left: 100px;
     margin-right: 100px;
+    margin-bottom: 70px;
+}
+
+#Pro2 {
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 #Proimg {
@@ -194,6 +203,15 @@ ion-icon {
     }
     
     #Pro1 {
+        display: flex;
+        justify-content: space-around;
+        height: 200px;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 50px;
+    }
+
+    #Pro2 {
         display: flex;
         justify-content: space-around;
         height: 200px;
